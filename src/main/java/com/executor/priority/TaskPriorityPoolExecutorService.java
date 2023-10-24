@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.concurrent.*;
 
 /**
- * Ejecuta tareas con tres diferentes niveles de prioridad (ALTA, MEDIA, BAJA).
+     * Ejecuta tareas con tres diferentes niveles de prioridad (ALTA, MEDIA, BAJA).
  * Todas las tareas eventualmente toman tiempo de CPU, donde:
  * 1. La tarea de prioridad ALTA tendrá mayor tiempo de procesamiento que la de prioridad MEDIA
  * 2. La tarea de prioridad MEDIA tendrá mayor tiempo de procesamiento que la de prioridad BAJA
